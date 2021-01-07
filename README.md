@@ -1,7 +1,7 @@
 # Transfer-Learning-and-Data-Agmentation-on-Natural-Scene-Dataset
 Implementing Transfer Learning and Data Augmentation using Base Model, VGG16 and ResNet50for image classification.
 
-Given :
+Given :<br>
 Train Images : 14k images classified into 6 categories
 Validation Images : 3k images classified into 6 categories
 Test Images : 7k images without any classification
