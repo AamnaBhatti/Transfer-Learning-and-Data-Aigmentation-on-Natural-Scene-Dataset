@@ -10,7 +10,7 @@ Regularization:<br>
 Early Stopping, Batch Normalization and Dropout<br>
 
 
-Visualization of test data:
+Visualization of test data:<br>
 ![777](https://user-images.githubusercontent.com/74530146/103931111-96d1fb80-5141-11eb-9470-1037809c29d1.png)
 
 Table of Contents:<br>
