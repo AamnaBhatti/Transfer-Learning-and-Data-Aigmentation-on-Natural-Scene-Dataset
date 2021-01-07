@@ -10,7 +10,7 @@ Regularization:<br>
 Early Stopping, Batch Normalization and Dropout<br>
 
 Table of Contents:<br>
-* [Code]: https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/Code
+*  [Code] : https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/Code
 * CheckPoints : https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/CheckPoints
 * Results: https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/Results
 
