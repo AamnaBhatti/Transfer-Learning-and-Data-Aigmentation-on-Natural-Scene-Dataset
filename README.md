@@ -1,18 +1,21 @@
-# Transfer-Learning-and-Data-Agmentation-on-Natural-Scene-Dataset
-Implementing Transfer Learning and Data Augmentation using Base Model, VGG16 and ResNet50for image classification.
+# Transfer-Learning-and-Data-Agmentation-on-Natural-Scene-Dataset#
+Implementing Transfer Learning and Data Augmentation using Base Model, VGG16 and ResNet50for image classification.<br>
 
-Given :<br>
-Train Images : 14k images classified into 6 categories
-Validation Images : 3k images classified into 6 categories
-Test Images : 7k images without any classification
+##Given :##<br>
+Train Images : 14k images classified into 6 categories <br>
+Validation Images : 3k images classified into 6 categories <br>
+Test Images : 7k images without any classification <br>
 
-Regularization:
-Early Stopping, Batch Normalization and Dropout
+##Regularization:##<br>
+Early Stopping, Batch Normalization and Dropout<br>
 
-Hierarchy:
-Code
+##Table of Contents:##<br>
+* [Code] : https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/Code
+* [CheckPoints] : https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/CheckPoints
+* Results[Using transfer learning]: https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/Results
 
-Result:
+
+Result:<br>
 
 | Attempt | Base Model | VGG16 | ResNet50 |
 | Original Dataset |  83.6% | - | - |
