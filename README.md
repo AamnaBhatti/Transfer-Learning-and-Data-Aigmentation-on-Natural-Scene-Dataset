@@ -9,6 +9,10 @@ Test Images : 7k images without any classification <br>
 Regularization:<br>
 Early Stopping, Batch Normalization and Dropout<br>
 
+
+Visualization of test data:
+![777](https://user-images.githubusercontent.com/74530146/103931111-96d1fb80-5141-11eb-9470-1037809c29d1.png)
+
 Table of Contents:<br>
 * [Code](https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/Code)
 * [CheckPoints](https://github.com/AamnaBhatti/Transfer-Learning-and-Data-Augmentation-on-Natural-Scene-Dataset/tree/main/CheckPoints)
