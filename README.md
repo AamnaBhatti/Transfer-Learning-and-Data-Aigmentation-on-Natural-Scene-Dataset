@@ -17,8 +17,8 @@ Table of Contents:<br>
 
 Result:
 
-| Attempt | Base Model | VGG16 | ResNet50 |<br>
+| Attempt | Base Model | VGG16 | ResNet50 |
 | :-: | :-: | :-:| :-: |
-| Original Dataset |  83.6% | - | - |<br>
+| Original Dataset |  83.6% | - | - |
 | Transfer Learning  |  - | 84.7% | 51.4% |<br>
 | Transfer Learning & Data Augmentation |  - | 83.2 | 44.4 |<br>
